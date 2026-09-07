@@ -1,4 +1,4 @@
-## Hi there I'm Abdur Rahman 👋
+## Hi there I'm Md Abdur Rahman 👋
 
 - 🔭 I’m currently working on NOTHING
 - 🌱 I’m currently learning HOW TO DO THINGS
