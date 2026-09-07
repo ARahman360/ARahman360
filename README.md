@@ -1,5 +1,6 @@
 ## Hi there I'm Md Abdur Rahman 👋
 
+I'm studying at LAB university of Applied Science // IIT26S
 - 🔭 I’m currently working on NOTHING
 - 🌱 I’m currently learning HOW TO DO THINGS
 - 👯 I’m looking to collaborate on PROJECTS
