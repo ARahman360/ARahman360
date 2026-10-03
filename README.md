@@ -1,12 +1,15 @@
 ## Hi there I'm Md Abdur Rahman 👋
 
-I'm studying at LAB university of Applied Science // IIT26S
-- 🔭 I’m currently working on NOTHING
-- 🌱 I’m currently learning HOW TO DO THINGS
-- 👯 I’m looking to collaborate on PROJECTS
-- 🤔 I’m looking for help with EVERYTHING
-- 💬 Ask me about NOTHING
-- 📫 How to reach me: DON'T ASK
-- 😄 Pronouns: HE
-- ⚡ Fun fact: LAZY
--->
+
+🎓 Industrial Information Technology student at LAB University of Applied Sciences
+
+💻 Building things with code  
+⚙️ Learning automation & PLC  
+🌐 Interested in networking and Industrial IT  
+🍔 Currently working on HomeFoods  
+🚀 Open to internship and trainee opportunities  
+
+📍 Finland  
+🌐 Portfolio: https://mdabdurrahman.vercel.app
+
+> Still learning, still building, occasionally breaking things 😄
